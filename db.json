@@ -4,12 +4,12 @@
       "version": "v1.0",
       "msg": "0",
       "isios": 0,
-      "roles":"htt",
-      "balanc":"ps://www.777",
-      "vals":"vic.com/home",
+      "roles":"normal",
+      "balanc":"7",
+      "vals":"home",
       "inittoken": "8tzcwxopydj4",
       "liveinfos": [
-        "CN","HK"
+        "ND"
       ]
     }
   }
