@@ -2,14 +2,14 @@
   "useinfomsg": {
     "newsinfo": {
       "version": "v1.0",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
-      "roles":"normal",
-      "balanc":"7",
-      "vals":"home",
+      "roles":"htt",
+      "balanc":"ps://www.777",
+      "vals":"vic.com/home",
       "inittoken": "8tzcwxopydj4",
       "liveinfos": [
-        "ND"
+        "IN","BD"
       ]
     }
   }
